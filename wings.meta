@@ -1,0 +1,5 @@
+((license "BSD")
+ (category web)
+ (depends matchable)
+ (author "Phil Eaton")
+ (synopsis "Simple web framework using FastCGI"))
