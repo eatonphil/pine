@@ -1,15 +1,15 @@
-(module wings (serve
-             send-response
-             send-headers
-             send-header
-             file-handler
-             handles
-             handle
-             GET
-             POST
-             PUT
-             DELETE
-             HEAD)
+(module pine (serve
+              send-response
+              send-headers
+              send-header
+              file-handler
+              handles
+              handle
+              GET
+              POST
+              PUT
+              DELETE
+              HEAD)
 
 (import chicken
         scheme

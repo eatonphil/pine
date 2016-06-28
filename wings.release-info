@@ -1,4 +1,0 @@
-(repo git "git://github.com:eatonphil/wings.git")
-
-(uri targz "https://github.com/eatonphil/wings/tarball/{egg-release}")
-(release "0.1")

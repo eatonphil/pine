@@ -1,0 +1,4 @@
+(repo git "git://github.com:eatonphil/pine.git")
+
+(uri targz "https://github.com/eatonphil/pine/tarball/{egg-release}")
+(release "0.1")
